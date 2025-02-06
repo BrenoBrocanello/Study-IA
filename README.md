@@ -1,9 +1,9 @@
 # StudyIA
 
-Esse projeto é meu primeiro projeto pessoal após a transição de biólogo para T.I, tenho muito a melhorar ainda.
+StudyIA é meu primeiro projeto pessoal após a transição de biólogo para T.I, tenho muito a melhorar ainda, mas espero que gostem.
 
 
-StudyIA é um programa que pode auxiliar na organização e otimização dos estudos, criando cronogramas personalizados e fornecendo conteúdo detalhado com base em editais de concursos ou informações fornecidas diretamente pelo usuário. Utilizando inteligência artificial da OpenAI, o sistema gera planos de estudo e conteúdo acadêmico aprofundado, com explicações e exercícios práticos.
+StudyIA é um programa que pode auxiliar na organização e otimização dos estudos, criando cronogramas personalizados e fornecendo conteúdo detalhado com base em editais de concursos ou informações fornecidas diretamente pelo usuário. Utilizando inteligência artificial da OpenAI, o sistema gera planos de estudo e o conteudo que a pessoa desejar, com explicações e exercícios práticos.
 
 ## Funcionalidades
 
